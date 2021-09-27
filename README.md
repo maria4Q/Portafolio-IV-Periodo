@@ -32,5 +32,7 @@
   📖Adquirir el habito de trabajar los warefremes identicos al modelo que se solicito
   
   # DOCUMENTACIÓN
+  
+* Abre y [ve a la base sitio web](https://maria4q.github.io/Base_Sitio/) y podrás ver como se adapta a la pantalla de tu pc, telefono y ipad.
 
   
