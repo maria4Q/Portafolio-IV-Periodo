@@ -20,7 +20,15 @@
     - Anteportada.
     - Índice.
     - Objetivos.
-       - 
+    - Documentación
+      - Base sitio web wareframe #1
+      - Login principal de aplicacion ERP wareframe #2.
+      - Login secundario de la aplicación ERP wareframe #3.
+      - Profile de la aplicación ERP wareframe #4.
+      - Dashboard de la palicación ERP wareframw #5
+    - Objetivos futuros.
+     
+    
 # OBJETIVOS
 
   📚Comprender de forma clara cada una de las etiquetas correctas durante la creación de una página web.
