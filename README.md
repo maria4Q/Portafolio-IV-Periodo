@@ -40,5 +40,15 @@
 * Ingresa y [conoce nuestro dashboard de la aplizacion ERP](https://maria4q.github.io/Dashboard/).
 
 
+<a width="100%" href="https://imgur.com/2u6qH7T"><img src="https://i.imgur.com/2u6qH7T.png" title="source: imgur.com" /></a>
+
+# OBJETIVOS FUTUROS
+
+## Investigación:
+ Uno de mis objeetivos futuros es poder aplicar todo mi conocmiento aprendido durante este periodo y todo lo que he aprendido alrededor de este año en proyectos más complejos.
+
+
+
+
 
   
