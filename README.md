@@ -44,8 +44,8 @@
 * Abre y [ve a la base sitio web](https://maria4q.github.io/Base_Sitio/) y podrás ver como se adapta a la pantalla de tu pc, telefono y ipad.
 * Abre y [conoce el login de nuestra aplicación](https://maria4q.github.io/Login_1/) y podrás ver el login principal de SCHOOL ERP. 
 * Dale click al link y [conoce la segunda parte de login](https://maria4q.github.io/Login_2/) y observaras como se acomoda perfectamente a tu laptop.
-* Dale click y ingrea y [conoce el profile de la aplizacion ERP](https://maria4q.github.io/Profile_soporte/).
-* Ingresa y [conoce nuestro dashboard de la aplizacion ERP](https://maria4q.github.io/Dashboard/).
+* Dale click y ingrea y [conoce el profile de la aplicación ERP](https://maria4q.github.io/Profile_soporte/).
+* Ingresa y [conoce nuestro dashboard de la aplicación ERP](https://maria4q.github.io/Dashboard/).
 
 
 <a width="100%" href="https://imgur.com/2u6qH7T"><img src="https://i.imgur.com/2u6qH7T.png" title="source: imgur.com" /></a>
