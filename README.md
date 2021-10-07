@@ -25,7 +25,7 @@
       - Login principal de aplicacion ERP wareframe #2.
       - Login secundario de la aplicación ERP wareframe #3.
       - Profile de la aplicación ERP wareframe #4.
-      - Dashboard de la palicación ERP wareframw #5
+      - Dashboard de la aplicación ERP wareframw #5
     - Objetivos futuros.
      
     
