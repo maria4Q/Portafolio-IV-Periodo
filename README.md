@@ -1,6 +1,6 @@
 <img width="100px" src="https://jefuentes80.github.io/starup_scl/img/logo_SCL%20(3).png">
 
-# Portafolio IV Periodo
+# Portafolio IV Periodo 📁 ✒️⌨️
 
 <img width="100%" src= https://1.bp.blogspot.com/--e8GOtcf-Gc/XnUodP0JXdI/AAAAAAAB0Pw/w146lmShAN4KEEOTp9WJL4SDWrnRBdTXACLcBGAsYHQ/s1600/image1%2B%252815%2529.jpg>
 
@@ -14,7 +14,7 @@
   |  Maestro |  Jossue Emmanuel Fuentes. |
   |  Curso: | Laboratorio 1 |
   
-  # ÍNDICE
+  # ÍNDICE 📖 
 
     - Portada.
     - Anteportada.
@@ -29,7 +29,7 @@
     - Objetivos futuros.
      
     
-# OBJETIVOS
+# OBJETIVOS 📝
 
   📚Comprender de forma clara cada una de las etiquetas correctas durante la creación de una página web.
   <br>
@@ -39,7 +39,7 @@
   <br>
   📖Adquirir el habito de trabajar los warefremes identicos al modelo que se solicito
   
-  # DOCUMENTACIÓN
+  # DOCUMENTACIÓN  ✂️
   
 * Abre y [ve a la base sitio web](https://maria4q.github.io/Base_Sitio/) y podrás ver como se adapta a la pantalla de tu pc, telefono y ipad.
 * Abre y [conoce el login de nuestra aplicación](https://maria4q.github.io/Login_1/) y podrás ver el login principal de SCHOOL ERP. 
@@ -50,7 +50,7 @@
 
 <a width="100%" href="https://imgur.com/2u6qH7T"><img src="https://i.imgur.com/2u6qH7T.png" title="source: imgur.com" /></a>
 
-# OBJETIVOS FUTUROS
+# OBJETIVOS FUTUROS 📚
 
 ## Investigación:
  Uno de mis objeetivos futuros es poder aplicar todo mi conocmiento aprendido durante este periodo y todo lo que he aprendido alrededor de este año en proyectos más complejos.
